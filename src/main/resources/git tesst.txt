@@ -2,3 +2,5 @@
 reset  方法 reset soft不会删除代码，会把已经commit 的文件变回 未提交状态
 
 reset mixed
+
+mixed 和soft 类似
