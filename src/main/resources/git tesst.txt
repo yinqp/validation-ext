@@ -3,4 +3,4 @@ reset  方法 reset soft不会删除代码，会把已经commit 的文件变回 
 
 reset mixed
 
-mixed 和soft 类似
+mixed 和soft 类似，区别在于如果是新添加的文件使用mixed 已经提交后，使用mixed不会将新添加的文件标记为未提交状态
